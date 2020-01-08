@@ -1,2 +1,2 @@
 # node_docker
-My testing node using docker
+My testing Node.js using docker
